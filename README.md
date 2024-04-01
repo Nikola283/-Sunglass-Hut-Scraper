@@ -4,7 +4,8 @@ Highlights
 •	Scrapy Framework: Utilizes the Scrapy Python framework for efficient web crawling and scraping.
 •	Targeted Domain: Focused on the sunglasshut.com domain to retrieve sunglasses product details.
 •	Pagination Handling: Automatically follows pagination links to gather information from multiple pages.
-Usage
+
+Usage: 
 1.	Prerequisites:
 •	Ensure you have Python (3.7 or higher) installed.
 •	Install Scrapy using pip install scrapy.
